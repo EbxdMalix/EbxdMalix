@@ -23,7 +23,7 @@ Building AI-powered products, intelligent automation systems, Generative AI work
     <img src="https://img.shields.io/badge/Personal%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/EbxdMalix">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
